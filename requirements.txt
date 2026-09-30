@@ -1,0 +1,7 @@
+paho-mqtt==2.1.0
+influxdb-client==1.44.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+python-dotenv==1.0.1
+streamlit==1.37.1

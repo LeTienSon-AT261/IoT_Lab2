@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+*.pyc
+.vscode/
+mosquitto/data/
+mosquitto/log/
+Envidence/
